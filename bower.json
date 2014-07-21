@@ -1,0 +1,23 @@
+{
+  "name": "normalize-scss",
+  "version": "1.0.0",
+  "homepage": "https://github.com/aloayzab88/normalize-scss",
+  "authors": [
+    "Alejandro Loayza <aloayzab@medialabla.com>"
+  ],
+  "description": "Scss version of normalize",
+  "main": "normalize.scss",
+  "keywords": [
+    "normalize",
+    "scss",
+    "sass"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
